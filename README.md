@@ -1,4 +1,4 @@
-### ☄️ Olá! Eu me chamo Maria Eduarda
+<h1 align="center">☄️ Olá! Eu me chamo Maria Eduarda</h1>
 
 
 - ✨ Atualmente cursando Análise e Desenvolvimento de Sistemas ...
